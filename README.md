@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Xeriaim
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Lua
+- 📫 How to reach me: xeriaim@gmail.com
